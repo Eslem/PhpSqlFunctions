@@ -1,0 +1,3 @@
+Log: 2014-04-03_12:04
+Errormessage (query): %s
+Duplicate entry 'usu3' for key 'login'
