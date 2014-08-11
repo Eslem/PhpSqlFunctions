@@ -9,6 +9,7 @@
 			}
 		}
 		//Header('Content-type: text/xml');     	
+		//print($xml->asXML());
 		return $xml;
 
 	}
